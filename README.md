@@ -1,10 +1,15 @@
 # hello-world
 practice
 
-Hello
+Hello not sure what I am doing here
+
+Test test test
 
 I am a student.
 
-I like sleeping.
-
 Thanks
+
+## hi
+
+- new ideas
+- okay 
